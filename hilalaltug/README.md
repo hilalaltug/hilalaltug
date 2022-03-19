@@ -21,17 +21,11 @@
  <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-  [<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png" color="white" alt="linkedin" height="30" width="40" />](https://www.linkedin.com/in/hilalaltug/)
+  [<img align="center" src="https://media-exp1.licdn.com/dms/image/C5603AQE6mLZW2jfg4Q/profile-displayphoto-shrink_800_800/0/1644569709121?e=1652918400&v=beta&t=9l0MZQlzWwvuZ6OtUfJcjMG521zfLInqRE5XIVkkwaI" color="white" alt="linkedin" height="30" width="40" />](https://www.linkedin.com/in/hilalaltug/)
 
  [<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png?20201210105308" background-color="white" alt="Gmail" height="30" width="40" />](mailto:haltug44@gmail.com)
 
-<p><img  align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HRNGR&langs_count=10&theme=cobalt&layout=compact" alt="Harun" /></p>
-<br><br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=HRNGR&show_icons=true&theme=cobalt" alt="Harun" /></p>
- 
-  
-[ <p align="right"> ![](https://img.shields.io/badge/dynamic/json?color=000000&label=GitHub&query=%24.data.totalSubs&suffix=%20followers&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DHRNGR)](https://github.com/HRNGR) <img alt="Coding" width="90" height="19" src="https://komarev.com/ghpvc/?username=HRNGR&label=Profile%20views&color=129e00&style=plastic" alt="Harun" /> </p> 
-<hr> 
+
  <!---
 hilalaltug/hilalaltug is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
