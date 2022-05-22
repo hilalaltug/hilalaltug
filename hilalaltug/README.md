@@ -5,8 +5,6 @@
 
 <a href="#"><img width="50%" height="auto" src="![image](https://user-images.githubusercontent.com/96360040/158347720-eccfe991-1374-49d0-a3b7-3047b362fe7c.png)" height="75px"/></a>
 
-## <img alt="Coding" width="100" height="100" src="https://media-exp1.licdn.com/dms/image/C5603AQE6mLZW2jfg4Q/profile-displayphoto-shrink_800_800/0/1644569709121?e=1652918400&v=beta&t=9l0MZQlzWwvuZ6OtUfJcjMG521zfLInqRE5XIVkkwaI" width="15%"> About Me <img alt="Coding" width="180" height="100" src="https://user-images.githubusercontent.com/96360040/159109581-3db59e5e-0c1d-4ddf-8cb0-58c58185f07c.png" >
-
 - 👋 Hi, I'm @Hilal Altug
 - 👨‍🎓 I'm an DevOps Engineer Intern
 - 👨‍🏫 I'm interested in IT, photographing
