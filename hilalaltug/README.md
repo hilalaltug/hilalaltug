@@ -6,7 +6,7 @@
 <a href="#"><img width="50%" height="auto" src="![image](https://user-images.githubusercontent.com/96360040/158347720-eccfe991-1374-49d0-a3b7-3047b362fe7c.png)" height="75px"/></a>
 
 - 👋 Hi, I'm @Hilal Altug
-- 👨‍🎓 I'm an DevOps Engineer Intern
+- 👨‍🎓 I'm an DevOps Engineer
 - 👨‍🏫 I'm interested in IT, photographing
 - 👀 I'm currently learning AWS and DevOps 
 - 🥇 I like 🎹  💻  📸  i love cats 🐈 especially GITHUB CAT <img src="https://raw.githubusercontent.com/Potential17/Potential17/master/github-logo-octocat-.gif" width="4%"> 
