@@ -8,7 +8,6 @@
 - 👋 Hi, I'm @Hilal Altug
 - 👨‍🎓 I'm an DevOps Engineer
 - 👨‍🏫 I'm interested in IT, photographing
-- 👀 I'm currently learning AWS and DevOps 
 - 🥇 I like 🎹  💻  📸  i love cats 🐈 especially GITHUB CAT <img src="https://raw.githubusercontent.com/Potential17/Potential17/master/github-logo-octocat-.gif" width="4%"> 
 - 💞️ I'm looking to collaborate on DevOps;
 <p> <img src="https://logos-world.net/wp-content/uploads/2021/08/Amazon-Web-Services-AWS-Emblem.png" width="10%"> <img src="https://seeklogo.com/images/D/docker-logo-6D6F987702-seeklogo.com.png" width="10%"> <img src="https://www.stratoscale.com/wp-content/uploads/2019/04/Kubernetes-logo.png" width="10%"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg" width="10%"> <img src="https://marka-logo.com/wp-content/uploads/2020/09/Linux-Logo.png" width="10%"> <img src="https://www.singlestoneconsulting.com/wp-content/uploads/2021/02/terraform-icon.png" width="10%">
